@@ -1,0 +1,50 @@
+.PCAPP{
+    .topHead {
+        padding: 20px 48px;
+        background: linear-gradient(180deg, #0c111c 0%, #354c66 100%);
+        border-bottom: 2px rgba(255, 255, 255, 0.12) solid;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        opacity: 0.8;
+      }
+
+      .bt1 {
+        color: white;
+        font-size: 20px;
+        font-family: Spectral SC;
+        font-weight: 700;
+        word-wrap: break-word;
+        cursor: pointer;
+      }
+}
+
+
+.MobileApp{
+  .topHead {
+      padding: 20px;
+      background: linear-gradient(180deg, #0c111c 0%, #354c66 100%);
+      border-bottom: 2px rgba(255, 255, 255, 0.12) solid;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      opacity: 0.8;
+    }
+
+    .bt1 {
+      color: white;
+      font-size: 16px;
+      font-family: Spectral SC;
+      font-weight: 700;
+      word-wrap: break-word;
+      cursor: pointer;
+    }
+}
+
+
+
+
+
+

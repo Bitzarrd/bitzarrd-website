@@ -1,0 +1,73 @@
+.PCAPP{
+  .bitzzardBtn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 16px 40px;
+    font-family: Maitree;
+    font-weight: 700;
+    word-wrap: break-word;
+    line-height: 1;
+    border-radius: 24px;
+    text-transform: uppercase;
+  }
+  
+  .primaryBtn {
+    background-color: #d59637;
+    color: #641e00;
+  }
+  
+  .darkBtn {
+    background: linear-gradient(180deg, #6c3b27 0%, #2d160c 100%);
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.24);
+    color: #edbb81;
+  }
+  .lightBtn {
+    background-color: transparent;
+    color: white;
+    border: 1px rgba(255, 255, 255, 0.32) solid;
+  }
+}
+
+
+.MobileApp{
+  .bitzzardBtn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 16px 40px;
+    font-family: Maitree;
+    font-weight: 700;
+    word-wrap: break-word;
+    line-height: 1;
+    border-radius: 24px;
+    text-transform: uppercase;
+  }
+  
+  .primaryBtn {
+    background-color: #d59637;
+    color: #641e00;
+  }
+  
+  .darkBtn {
+    background: linear-gradient(180deg, #6c3b27 0%, #2d160c 100%);
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.24);
+    color: #edbb81;
+  }
+  .lightBtn {
+    background-color: transparent;
+    color: white;
+    border: 1px rgba(255, 255, 255, 0.32) solid;
+  }
+}
+
+
+
+
+
+
+

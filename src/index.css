@@ -1,0 +1,77 @@
+#root {
+  /* min-height: 100vh; */
+  /* background-color: #000000; */
+}
+
+.rootInnerWrapper {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  color: white;
+  font-family: 'Maitree';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.flexCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flexStartCenter {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.flexStart {
+  display: flex;
+  justify-content: flex-start;
+}
+.flexBetween {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flexBetweenStart {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.flexColumnCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flexColumnStart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.flexColumnBetween {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.w50{
+  width: 50%;
+}
+
+.wh100 {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
