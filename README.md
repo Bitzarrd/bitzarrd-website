@@ -7,15 +7,11 @@ BitmapWar is an innovative multiplayer strategy game where players engage in fac
 
 # Reward Distribution
 ![Reward Distribution](https://bitmapwar.bitzarrd.xyz/~gitbook/image?url=https%3A%2F%2F2972431059-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fq8Yl9IXsHcKn4nP18EBu%252Fuploads%252FuNWTx7zKuTxuTJYvcR4U%252Fnew_jackpot.png%3Falt%3Dmedia%26token%3D4a982199-72fb-4f1a-b9ee-ba04f847e154&width=768&dpr=4&quality=100&sign=378d838d7d18a89d7dfc54f382798eedb18d36464fba7d9929d0dc94783cb075)
+# Official Links
+- Game Link: https://www.bitmapwar.com/
 
-# Game Link
-https://www.bitmapwar.com/
+- Game Tutorial: https://bitzarrd.notion.site/BitmapWar-1336676ddc664349981c3b17b4b3b983
 
-# Game Tutorial
-https://bitzarrd.notion.site/BitmapWar-1336676ddc664349981c3b17b4b3b983
-
-
-# Read the Litepaper for More Details
-https://bitmapwar.bitzarrd.xyz/
+- Litepaper: https://bitmapwar.bitzarrd.xyz/
 
 **_Follow us on [X](https://x.com/Bitzarrd)!_**
